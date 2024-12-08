@@ -9,7 +9,7 @@ function Explore() {
 
         
         <div>
-<Image src="/item-category 1.png " alt='' width={638} height={648}/>
+<Image src="/item-category1.png " alt='' width={638} height={648}/>
         </div>
         <div className='flex flex-col items-center'>
         <div className='flex'>
@@ -18,7 +18,7 @@ function Explore() {
 
             </div>
             <div>
-<Image className='p-1' src="/card (1).png" alt='' width={312} height={312 }/>
+<Image className='p-1' src="/card-1.png" alt='' width={312} height={312 }/>
 
             </div>
 </div>
@@ -26,11 +26,11 @@ function Explore() {
 
 
 <div>
-<Image className='p-1' src="/card (2).png" alt='' width={312} height={312 }/>
+<Image className='p-1' src="/card-2.png" alt='' width={312} height={312 }/>
 
 </div>
 <div>
-<Image className='p-1' src="/card (1).png" alt='' width={312} height={312 }/>
+<Image className='p-1' src="/card-1.png" alt='' width={312} height={312 }/>
 
 </div>
 </div>

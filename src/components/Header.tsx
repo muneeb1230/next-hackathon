@@ -22,7 +22,7 @@
 //         {/* Logo */}
 //         <div className="flex items-center space-x-3">
 //           <img
-//             src="/Logo Icon.png"
+//             src="/Icon.png"
 //             alt="Comforty Logo"
 //             className="h-10 w-10"
 //           />
@@ -32,7 +32,7 @@
 //         {/* Icons */}
 //         <div className="flex items-center space-x-4">
 //           <img
-//             src="/Buy 2.png"
+//             src="/Buy2.png"
 //             alt="Icon 1"
 //             className="h-6 w-6 cursor-pointer"
 //           />
@@ -111,7 +111,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-3">
           <img
-            src="/Logo Icon.png"
+            src="/LogoIcon.png"
             alt="Comforty Logo"
             className="h-10 w-10"
           />
@@ -121,7 +121,7 @@ const Header = () => {
         {/* Icons */}
         <div className="flex items-center space-x-4">
           <img
-            src="/Buy 2.png"
+            src="/Buy2.png"
             alt="Icon 1"
             className="h-6 w-6 cursor-pointer"
           />
